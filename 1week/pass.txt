@@ -4,3 +4,29 @@ gridone download page
 
 실행
 - gridone123$
+
+- 퍼프원
+- C:\PerfOneAgent\Agent_Node>start_agent.bat yhlee@10.30.1.4
+
+에이전트 설정
+퍼프원-레코드불러오기-문서함
+- 시나리오 설정
+
+1. 시험방법 설정
+
+-
+
+www.gridone.co.kr => 씽크타임
+
+변동가상싸용자
+종료 가상 사용자
+램프업 : 사용자 점차 증가
+
+테스트시작 - 테스트메모- 10유저
+
+tps: 
+
+분석서버뜨우기
+
+
+PerfOne
