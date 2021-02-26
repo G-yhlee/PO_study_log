@@ -6,7 +6,7 @@ gridone download page
 - gridone123$
 
 - 퍼프원
-- C:\PerfOneAgent\Agent_Node>start_agent.bat yhlee@10.30.1.4
+- C:\PerfOneAgent\Agent_Node>start_agent.bat yhlee@10.30.1.27
 
 에이전트 설정
 퍼프원-레코드불러오기-문서함
